@@ -1,5 +1,5 @@
 [build]
-  base    = "relationship_website_mobile"
+  base = "relationship_website_mobile-main"
   publish = "dist"
   command = "npm run build"
 
