@@ -1,0 +1,7 @@
+[build]
+  base    = "relationship_website_mobile"
+  publish = "dist"
+  command = "npm run build"
+
+[dev]
+  framework = "vite"
